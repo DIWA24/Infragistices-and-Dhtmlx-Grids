@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UserData>
+  <Users>
+    <UserName>Diwa</UserName>
+    <Email>diwa@gmail.com</Email>
+    <Passowrd>123</Passowrd>
+    <Country>INDIA</Country>
+    <Gender>Male</Gender>
+    <Role>Admin</Role>
+  </Users>
+  <Users>
+    <UserName>Bhas</UserName>
+    <Email>bhas@gmail.com</Email>
+    <Passowrd>2424</Passowrd>
+    <Country>SRILANKA</Country>
+    <Gender>Male</Gender>
+    <Role>User</Role>
+  </Users>
+  <Users>
+    <UserName>dd</UserName>
+    <Email>dd@gmail.com</Email>
+    <Passowrd>1234</Passowrd>
+    <Country>Select Country</Country>
+    <Gender>Male</Gender>
+    <Role>User</Role>
+  </Users>
+</UserData>
